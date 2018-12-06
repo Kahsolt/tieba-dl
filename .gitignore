@@ -1,0 +1,18 @@
+# IDEA project
+.idea/
+
+# python cache
+__pycache__
+
+# user defined watch list
+*.list
+
+# db file
+*.sqlite3
+*.sqlite3.bak
+
+# logs
+*.log
+
+# image folder
+images/
